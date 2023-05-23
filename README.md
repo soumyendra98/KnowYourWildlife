@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-[Presentation Link](https://prezi.com/view/cmrCe3B9D5bWB01aMlWw/)
- </p>
+ [Presentation Link](https://prezi.com/view/cmrCe3B9D5bWB01aMlWw/)
+</p>
  
  <p align = "center">
   [Video Link]()
