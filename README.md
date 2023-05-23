@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://github.com/soumyendra98/KnowYourWildlife/blob/main/images/output.jpg)" alt="Project Screenshot" width="600">
+  <img src="https://github.com/soumyendra98/KnowYourWildlife/blob/main/images/output.jpg" alt="Project Screenshot" width="600">
 </p>
 
 ## 📝 Description
