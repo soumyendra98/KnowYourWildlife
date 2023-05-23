@@ -6,6 +6,14 @@
   <img src="https://github.com/soumyendra98/KnowYourWildlife/blob/main/images/tiger.png" alt="Project Logo" width="200">
 </p>
 
+<p align="left">
+[Presentation Link](https://prezi.com/view/cmrCe3B9D5bWB01aMlWw/)
+ </p>
+ 
+ <p align = "center">
+  [Video Link]()
+ </p>
+
 <p align="center">
   An interactive chatbot powered by OpenAI API and Gradio that provides information on conservation policies and detects animal species in user-uploaded images. 🌿📸
 </p>
