@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://u-static.fotor.com/images/text-to-image/result/PRO-f217dafd3c9d4c4986783985339079e2.jpg" alt="Project Logo" width="200">
+  <img src="https://github.com/soumyendra98/KnowYourWildlife/blob/main/images/tiger.png" alt="Project Logo" width="200">
 </p>
 
 <p align="center">
