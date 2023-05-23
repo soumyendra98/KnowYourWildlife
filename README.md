@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="/Users/siddhantsancheti/Desktop/KnowYourWildlife/images/output.jpg" alt="Project Screenshot" width="600">
+  <img src="(https://github.com/soumyendra98/KnowYourWildlife/blob/main/images/output.jpg)" alt="Project Screenshot" width="600">
 </p>
 
 ## 📝 Description
@@ -38,4 +38,4 @@ The Wildlife Conservation Chatbot is a project that aims to raise awareness abou
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/
+   git clone (https://github.com/soumyendra98/KnowYourWildlife)
