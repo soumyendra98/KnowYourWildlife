@@ -14,6 +14,12 @@
  
  [Video Link](https://drive.google.com/drive/folders/1eG6Mj2irT4zkO2Ap9fzOrZIQL8D9Brur?usp=sharing)
 
+## Meet Team Technosapiens
+
+ - Soumyendra Srivastava 		       
+ 
+ - Siddhant Sancheti 
+
 
 <p align="center">
   <img src="https://github.com/soumyendra98/KnowYourWildlife/blob/main/images/output.jpg" alt="Project Screenshot" width="600">
