@@ -50,3 +50,10 @@ The Wildlife Conservation Chatbot is a project that aims to raise awareness abou
 
    ```bash
    git clone (https://github.com/soumyendra98/KnowYourWildlife)
+
+
+2. Move the `congif.py`, `Frontend.py`, `Detector.py`, `ImageProcessing.py` inside the detectron2 folder.
+
+3. Add `OpenAi API` Key to the config file.
+
+4. Navigate to `detectron2` folder and run `Frontend.py`.
